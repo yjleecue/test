@@ -10,7 +10,7 @@ public class test {
         double yoon;
         double shim;
         double ahn;
-
+	int i = 0;
 
     }
 }
