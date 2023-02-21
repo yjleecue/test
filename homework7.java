@@ -12,7 +12,7 @@ public class homework7 {
         int randomNumber;
         Random random = new Random();
         random.setSeed(System.currentTimeMillis()); // 현재시간을 시드값으로 설정
-        randomNumber = random.nextInt(99);
+        randomNumber = random.nextInt(46);
         return randomNumber;
     }
     public static int[][] arrayLotto (int countLotto) {
