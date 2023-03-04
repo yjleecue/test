@@ -17,6 +17,6 @@ public class baekjoon {
 
 
         // List<String> list = new ArrayList<>(Arrays.asList(s));
-        // 3월 4일 제발 마무리 완료하기 
+        // 언제하지....
     }
 }
