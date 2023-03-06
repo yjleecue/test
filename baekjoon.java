@@ -17,7 +17,6 @@ public class baekjoon {
 
 
         // List<String> list = new ArrayList<>(Arrays.asList(s));
-        // 언제하지....
-        // 아,, 망했다,, 아니다,, 내일 하면 되지,,,
+        // 3/7 
     }
 }
