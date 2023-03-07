@@ -1,1 +1,14 @@
-// 3-1 도전, 1문제라도 풀기 
+// 문자열 안에 문자열 문제 
+class Solution {
+    public int solution(String str1, String str2) {
+        int answer = 0;
+        
+        if (str1.indexOf(str2) != -1) {
+            answer = 1;
+        } else {
+            answer = 2;
+        }
+        
+        return answer;
+    }
+}
