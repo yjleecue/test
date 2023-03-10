@@ -17,6 +17,6 @@ public class baekjoon {
 
 
         // List<String> list = new ArrayList<>(Arrays.asList(s));
-        // 3/9
+        // 3/12 
     }
 }
