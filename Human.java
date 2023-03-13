@@ -8,7 +8,7 @@ class Exam {
 
 public class Human {
 	public static void main(){
-
+	 	// 변수에 이름 저장
 	}
 }
 
