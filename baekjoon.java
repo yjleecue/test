@@ -17,7 +17,8 @@ public class baekjoon {
 
 
         // List<String> list = new ArrayList<>(Arrays.asList(s));
-        // 3/12 (일...)
+        // 새로 공부 시작 
+       
        
     }
 }
